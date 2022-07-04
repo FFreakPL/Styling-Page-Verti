@@ -7,6 +7,7 @@
 `Mobile`
 <p><img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177104964-bedd49fc-2381-4dab-a20f-512d9251b418.png"></p>
 <p><img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177104968-fc4923e4-dfe7-4fcb-8abf-05001e0c368f.png"></p>
+<p><img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177105714-4a9eb032-9601-445e-8e64-a651542bc6ff.png"></p>
 
 
 ## Feautures
