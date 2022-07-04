@@ -1,0 +1,23 @@
+// Import generics
+@import "./misc/reset";
+@import "./misc/variables";
+
+// Import mixins
+@import "./misc/mixins";
+@import "./misc/grid";
+
+// Import global styles
+@import "./general/global";
+@import "./general/typography";
+
+//Import elements
+@import "./elements/buttons";
+
+//Import blocks
+@import "./blocks/header";
+@import "./blocks/hero";
+@import "./blocks/menu";
+@import "./blocks/articles";
+@import "./blocks/info";
+@import "./blocks/links";
+@import "./blocks/footer";

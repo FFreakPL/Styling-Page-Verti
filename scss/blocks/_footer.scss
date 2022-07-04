@@ -1,0 +1,29 @@
+.footer {
+  padding: 1rem 1.5rem;
+
+  ul {
+    line-height: 2;
+    @media (min-width: 1280px) {
+      display: flex;
+      justify-content: center;
+      }
+  }
+
+  li:nth-child(2), li:last-child {
+    @media (min-width: 1280px) {
+      border-left: solid 1px lightgrey;
+      padding: 0 1rem 0 1rem;
+    }
+  }
+  li:first-child {
+    @media (min-width: 1280px) {
+      padding: 0 1rem 0 0;
+    }
+  }
+  a {
+    color: #444444;
+  }
+  @media (min-width:768px) {
+    text-align: center;
+  }
+}

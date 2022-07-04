@@ -1,0 +1,47 @@
+.article {
+    margin-top: 1rem;
+
+@media (min-width: 768px) {
+    margin-top: 2rem;
+
+  &__box {
+    padding:0;
+  }
+
+  &__wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  }
+  &__box {
+    margin-top: 1rem;
+  }
+
+    &__content {
+         background: #fff;
+         box-shadow: 3px 0px 0px rgb(0 0 0 / 5%);
+         border-radius: $border-radius;
+    }
+
+  img {
+    width: 100%;
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
+  }
+ &__description {
+   padding: 1.875rem 0.9375rem;
+   text-align: left
+ }
+
+  h1 {
+    font-size: 1.2375rem;
+    margin-bottom: 4rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    margin-top: 2rem;
+    line-height: 2;
+  }
+
+}
